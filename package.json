@@ -1,0 +1,9 @@
+{
+    "name": "bugzilla-edit-comments",
+    "license": "MPL 2.0",
+    "author": "Michael Kelly",
+    "version": "0.1",
+    "fullName": "bugzilla-edit-comments",
+    "id": "jid1-AAPPISxxPfMNlg",
+    "description": "Adds a link for editing comments to bugzilla.mozilla.org."
+}
